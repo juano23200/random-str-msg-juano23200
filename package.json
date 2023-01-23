@@ -1,0 +1,27 @@
+{
+  "name": "random-str-msg-juano23200",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juano23200/random-str-msg-juano23200.git"
+  },
+  "keywords": [],
+  "author": "Juano Manrique <juanandresmanrique@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juano23200/random-str-msg-juano23200/issues"
+  },
+  "homepage": "https://github.com/juano23200/random-str-msg-juano23200#readme",
+  "bin": {
+    "random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
